@@ -1,5 +1,6 @@
-"rules": [{
-    "type": "field",
+[
+  {
+    "port": "",
     "outboundTag": "direct",
     "domain": [
         "fofa.info",
@@ -14,5 +15,8 @@
         "oracle.com",
         "hidns.vip",
         "bttts.com"
-    ]
-}]
+    ],
+    "enabled": true,
+    "remarks": "custom"
+  }
+]
