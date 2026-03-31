@@ -1,3 +1,17 @@
 # Clash Domain Rules
 # 格式：每行一个域名
 # 添加日期 - 域名
+
+DOMAIN-SUFFIX,fofa.info
+DOMAIN-SUFFIX,zznode.com
+DOMAIN-SUFFIX,kstore.cc
+DOMAIN-SUFFIX,kstore.vip
+# 直连域名
+DOMAIN-SUFFIX,19941996.xyz
+DOMAIN-SUFFIX,ksust.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,dnshe.com
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,hidns.vip
+DOMAIN-SUFFIX,bttts.com
