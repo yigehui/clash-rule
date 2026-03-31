@@ -1,0 +1,18 @@
+{
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "fofa.info",
+          "zznode.com",
+          "kstore.cc",
+          "kstore.vip",
+          "19941996.xyz",
+          "ksust.com",
+          "cloudflare.com",
+          "dnshe.com",
+          "goofish.com",
+          "oracle.com",
+          "hids.vip",
+          "bttts.com"
+        ]
+      }
