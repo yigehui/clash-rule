@@ -15,7 +15,8 @@
         "oracle.com",
         "hidns.vip",
         "bttts.com",
-        "nvidia.com"
+        "nvidia.com",
+        "kuaishou.com"
     ],
     "enabled": true,
     "remarks": "custom"
