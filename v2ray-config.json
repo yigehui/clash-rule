@@ -17,7 +17,8 @@
         "bttts.com",
         "nvidia.com",
         "kuaishou.com",
-        "alipan.com"
+        "alipan.com",
+        "jd.com"
     ],
     "enabled": true,
     "remarks": "custom"
