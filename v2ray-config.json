@@ -18,7 +18,10 @@
         "kuaishou.com",
         "alipan.com",
         "jd.com",
-        "microsoft.com"
+        "microsoft.com",
+        "pinduoduo.com",
+        "pinduoduo.net",
+        "yangkeduo.com"
     ],
     "enabled": true,
     "remarks": "custom"
