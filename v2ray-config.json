@@ -17,7 +17,8 @@
         "nvidia.com",
         "kuaishou.com",
         "alipan.com",
-        "jd.com"
+        "jd.com",
+        "microsoft.com"
     ],
     "enabled": true,
     "remarks": "custom"
