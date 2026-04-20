@@ -7,6 +7,7 @@
         "zznode.com",
         "kstore.cc",
         "kstore.vip",
+        "kstore.dev",
         "19941996.xyz",
         "ksust.com",
         "dnshe.com",
@@ -21,7 +22,14 @@
         "microsoft.com",
         "pinduoduo.com",
         "pinduoduo.net",
-        "yangkeduo.com"
+        "yangkeduo.com",
+        "360buy.com",
+        "douyin.com",
+        "douyincdn.com",
+        "ixigua.com",
+        "byteimg.com",
+        "pstatp.com",
+        "snssdk.com"
     ],
     "enabled": true,
     "remarks": "custom"
