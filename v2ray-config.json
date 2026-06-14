@@ -30,7 +30,8 @@
         "byteimg.com",
         "pstatp.com",
         "snssdk.com",
-        "oray.net"
+        "oray.net",
+        "music-api.gdstudio.xyz"
     ],
     "enabled": true,
     "remarks": "custom"
