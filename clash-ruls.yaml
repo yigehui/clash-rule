@@ -16,6 +16,17 @@ payload:
   - DOMAIN-SUFFIX,alipan.com
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,pinduoduo.com
   - DOMAIN-SUFFIX,pinduoduo.net
   - DOMAIN-SUFFIX,yangkeduo.com
