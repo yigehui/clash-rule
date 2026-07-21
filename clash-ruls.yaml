@@ -39,3 +39,15 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,oray.net
   - DOMAIN-SUFFIX,music-api.gdstudio.xyz
+  - DOMAIN-SUFFIX,hsprotect.net
+  - DOMAIN-SUFFIX,fpt.live.com
+  - DOMAIN-SUFFIX,px-cloud.net
+  - DOMAIN-SUFFIX,px-cdn.net
+  - DOMAIN,client.px-cloud.net
+  - DOMAIN-SUFFIX,cfp.microsoft.com
+  - DOMAIN,df.cfp.microsoft.com
+  - DOMAIN,signup.live.com
+  - DOMAIN,login.microsoftonline.com
+  - DOMAIN,login.live.com
+  - DOMAIN,logincdn.msauth.net
+  - DOMAIN,logincdn.msftauth.net

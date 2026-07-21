@@ -42,7 +42,19 @@
         "pstatp.com",
         "snssdk.com",
         "oray.net",
-        "music-api.gdstudio.xyz"
+        "music-api.gdstudio.xyz",
+        "hsprotect.net",
+        "fpt.live.com",
+        "px-cloud.net",
+        "px-cdn.net",
+        "client.px-cloud.net",
+        "cfp.microsoft.com",
+        "df.cfp.microsoft.com",
+        "signup.live.com",
+        "login.microsoftonline.com",
+        "login.live.com",
+        "logincdn.msauth.net",
+        "logincdn.msftauth.net"
     ],
     "enabled": true,
     "remarks": "custom"
