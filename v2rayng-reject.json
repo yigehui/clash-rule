@@ -1,5 +1,6 @@
 [
   {
+    "id": "miui-reject-1",
     "remarks": "拦截小米反欺诈/联通采集",
     "outboundTag": "block",
     "domain": [
@@ -7,6 +8,7 @@
       "domain:flash.sec.miui.com",
       "domain:dm.wo.com.cn"
     ],
-    "enabled": true
+    "enabled": true,
+    "locked": true
   }
 ]
