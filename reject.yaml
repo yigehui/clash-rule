@@ -1,0 +1,5 @@
+payload:
+  # 小米/运营商 反欺诈与数据采集域名
+  - DOMAIN-SUFFIX,fraud-detection.engine.miui.com
+  - DOMAIN-SUFFIX,flash.sec.miui.com
+  - DOMAIN-SUFFIX,dm.wo.com.cn

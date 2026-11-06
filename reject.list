@@ -1,0 +1,7 @@
+# Reject Domain Rules
+# 格式：每行一个域名
+# 添加日期 - 域名
+
+DOMAIN-SUFFIX,fraud-detection.engine.miui.com
+DOMAIN-SUFFIX,flash.sec.miui.com
+DOMAIN-SUFFIX,dm.wo.com.cn

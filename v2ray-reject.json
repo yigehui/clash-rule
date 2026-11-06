@@ -1,0 +1,13 @@
+[
+  {
+    "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "fraud-detection.engine.miui.com",
+      "flash.sec.miui.com",
+      "dm.wo.com.cn"
+    ],
+    "enabled": true,
+    "remarks": "reject"
+  }
+]
