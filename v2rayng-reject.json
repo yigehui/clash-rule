@@ -1,0 +1,14 @@
+{
+  "domainStrategy": "AsIs",
+  "rules": [
+    {
+      "type": "field",
+      "outboundTag": "block",
+      "domain": [
+        "domain:fraud-detection.engine.miui.com",
+        "domain:flash.sec.miui.com",
+        "domain:dm.wo.com.cn"
+      ]
+    }
+  ]
+}
