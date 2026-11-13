@@ -51,3 +51,30 @@ payload:
   - DOMAIN,login.live.com
   - DOMAIN,logincdn.msauth.net
   - DOMAIN,logincdn.msftauth.net
+  - DOMAIN-SUFFIX,cctv.cn
+  - DOMAIN-SUFFIX,cctv.com
+  - DOMAIN-SUFFIX,cctvpic.com
+  - DOMAIN-SUFFIX,citvc.com
+  - DOMAIN-SUFFIX,yangshipin.cn
+  - DOMAIN-SUFFIX,cntv.cn
+  - DOMAIN-SUFFIX,cntv.com
+  - DOMAIN-SUFFIX,qqlive.com
+  - DOMAIN-SUFFIX,myqcloud.com
+  - DOMAIN-SUFFIX,gtimg.cn
+  - DOMAIN-SUFFIX,smtcdns.net
+  - DOMAIN-SUFFIX,smtcdns.com
+  - DOMAIN-SUFFIX,tcdnlive.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,alikunlun.com
+  - DOMAIN-SUFFIX,wscdns.com
+  - DOMAIN-SUFFIX,chinanetcenter.com
+  - DOMAIN-SUFFIX,bdydns.com
+  - DOMAIN-SUFFIX,ksyungslb.com
+  - DOMAIN-SUFFIX,ks-cdn.com
+  - DOMAIN-KEYWORD,liveali
+  - DOMAIN-KEYWORD,liveten
+  - DOMAIN-KEYWORD,bklive
+  - DOMAIN-KEYWORD,livehw
+  - DOMAIN-KEYWORD,livebd
+  - DOMAIN-KEYWORD,livews
+  - DOMAIN-KEYWORD,kunlun
