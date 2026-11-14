@@ -78,4 +78,5 @@ payload:
   - DOMAIN-KEYWORD,livebd
   - DOMAIN-KEYWORD,livews
   - DOMAIN-KEYWORD,kunlun
+  - DOMAIN-SUFFIX,hndyjyfw.gov.cn
   - IP-CIDR,163.192.58.188/32,no-resolve
