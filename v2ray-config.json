@@ -83,6 +83,9 @@
         "livews",
         "kunlun"
     ],
+    "ip": [
+        "163.192.58.188/32"
+    ],
     "enabled": true,
     "remarks": "custom"
   }

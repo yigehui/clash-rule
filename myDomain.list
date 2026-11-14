@@ -84,3 +84,5 @@ DOMAIN-KEYWORD,livehw
 DOMAIN-KEYWORD,livebd
 DOMAIN-KEYWORD,livews
 DOMAIN-KEYWORD,kunlun
+# ysp-live 服务端 IP（播放列表/m3u8 仍从这里取）
+IP-CIDR,163.192.58.188/32,no-resolve
